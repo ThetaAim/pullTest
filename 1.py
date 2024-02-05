@@ -3,4 +3,5 @@ def click():
 
     for n in args:
         do *= n
+some new lines
     print(do)
