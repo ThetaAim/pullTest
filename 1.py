@@ -5,3 +5,5 @@ def click():
         do *= n
 some new lines
     print(do)
+def welcome():
+    print('New Screen')
