@@ -4,3 +4,4 @@ def welcome():
     print('New Screen')
 
 click()
+click()
